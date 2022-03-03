@@ -1,2 +1,2 @@
 # DeepOff
-Deep Learning model to predict phenotype score associated with heritable gene silencing induced by CRISPRoff
+Deep learning algorithms are a growing set of models are trained with raw-data, in this case DNA sequences, and over a cycle of itierations, these abstractlly can stastically learn to predict an given output data. In this work this model was generated to introduce DNA Promoter sequences and predict the epigenetic hertiable score. The data from this work is from Dr. James Nuñez work. https://doi.org/10.1016/j.cell.2021.03.025
