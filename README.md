@@ -6,4 +6,4 @@
 
 ### Pseudo-Abstract
 
-Deep learning algorithms are a growing set of models are trained with raw-data, in this case DNA sequences, and over a cycle of itierations, these abstractlly can stastically learn to predict an given output data. In this work this model was generated to introduce DNA Promoter sequences and predict the epigenetic hertiable score. The data from this work is from Dr. James Nuñez work. 
+Deep learning algorithms are a growing set of models are trained with raw-data, in this case DNA sequences, and over a cycle of itierations, these can stastically learn to predict an given output data. In this work this model was generated to introduce DNA Promoter sequences and predict the epigenetic hertiable score. The data from this work is from Dr. James Nuñez work. 
